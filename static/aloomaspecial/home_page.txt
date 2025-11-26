@@ -1,0 +1,43 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">1. What services are included in basic roadside assistance?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">It usually covers tire changes, battery jumps, lockouts, and fuel delivery. Some plans add towing up to a certain distance.</p>
+                <h4 class="template4 palooma">2. How soon can roadside help arrive?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In cities, expect 15-30 minutes. In remote areas, it might take 45-60 minutes. We send updates via app or text.</p>
+                <h4 class="template4 palooma">3. Does roadside assistance help with flat tires?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we can repair or replace the spare if you have one. For bigger damage, we arrange a tow to a shop.</p>
+                <h4 class="template4 palooma">4. Is there roadside coverage for motorcycles or RVs?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard plans focus on cars, but options like roadside service are made for RVs and bikes with special tools.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-361-8387">Click Here To Call Us (870) 361-8387</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
